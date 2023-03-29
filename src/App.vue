@@ -1,8 +1,10 @@
 <template>
-  <h1 class="text-red-500 text-4xl">Hello Vue JS</h1>
-  <RouterView />
+  <div class="h-screen w-screen bg-[#1A1C22]">
+    <RouterView/>
+  </div>
 </template>
 
 <script setup></script>
 
-<style scoped></style>
+<style scoped>
+</style>
