@@ -1,5 +1,5 @@
 <script setup>
-  // import Navbar from '@/components/Navbar.vue'
+  import Navbar from '@/components/Navbar.vue'
 
   import heroImage from '@/assets/img-hero.png'
 </script>
@@ -7,7 +7,7 @@
 <template>
   <main class="text-white">
 
-    <!-- <Navbar/> -->
+    <Navbar/>
 
     <!-- hero -->
     <div>
@@ -24,7 +24,3 @@
     </div>
   </main>
 </template>
-
-<script setup>
-import Navbar from '../components/Navbar.vue';
-</script>
