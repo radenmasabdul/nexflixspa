@@ -72,7 +72,6 @@
             </svg>
           </a>
           <ul class="p-2">
-            <li><a>ID</a></li>
             <li><a>EN</a></li>
           </ul>
         </li>

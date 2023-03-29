@@ -7,24 +7,38 @@
       </p>
     </div>
     <div>
-      <span class="font-Montserrat text-base text-white">Services</span>
-      <a class="font-Montserrat text-base text-white">Tentang Kami</a>
-      <a class="font-Montserrat text-base text-white">Hubungi Kami</a>
-      <a class="font-Montserrat text-base text-white">karir</a>
-      <a class="font-Montserrat text-base text-white">Blog</a>
-      <a class="font-Montserrat text-base text-white">Investors Relations</a>
+      <span class="font-Montserrat text-base text-white">Perusahaan</span>
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Tentang Kami</a
+      >
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Hubungi Kami</a
+      >
+      <a class="font-Montserrat text-base text-white cursor-pointer">karir</a>
+      <a class="font-Montserrat text-base text-white cursor-pointer">Blog</a>
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Investors Relations</a
+      >
     </div>
     <div>
       <span class="font-Montserrat text-base text-white">Dapatkan Bantuan</span>
-      <a class="font-Montserrat text-base text-white">FAQ</a>
-      <a class="font-Montserrat text-base text-white">Pusat Bantuan</a>
-      <a class="font-Montserrat text-base text-white">Akun</a>
+      <a class="font-Montserrat text-base text-white cursor-pointer">FAQ</a>
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Pusat Bantuan</a
+      >
+      <a class="font-Montserrat text-base text-white cursor-pointer">Akun</a>
     </div>
     <div>
       <span class="font-Montserrat text-base text-white">Lainnya</span>
-      <a class="font-Montserrat text-base text-white">Tukar Kartu Hadiah</a>
-      <a class="font-Montserrat text-base text-white">Netflix Original</a>
-      <a class="font-Montserrat text-base text-white">Media Center</a>
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Tukar Kartu Hadiah</a
+      >
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Netflix Original</a
+      >
+      <a class="font-Montserrat text-base text-white cursor-pointer"
+        >Media Center</a
+      >
     </div>
     <div>
       <span class="font-Montserrat text-base text-white"
@@ -49,8 +63,12 @@
     </div>
     <div className="md:place-self-center md:justify-self-end">
       <div className="grid grid-flow-col gap-4">
-        <p class="font-Montserrat text-sm text-white">Persyaratan Layanan</p>
-        <p class="font-Montserrat text-sm text-white">Kebijakan Privasi</p>
+        <p class="font-Montserrat text-sm text-white cursor-pointer">
+          Persyaratan Layanan
+        </p>
+        <p class="font-Montserrat text-sm text-white cursor-pointer">
+          Kebijakan Privasi
+        </p>
       </div>
     </div>
   </footer>
