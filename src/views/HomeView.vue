@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <script setup>
   // import Navbar from '@/components/Navbar.vue'
 
@@ -24,12 +23,6 @@
       </div>
     </div>
   </main>
-=======
-<template>
-  <div>
-    <Navbar />
-  </div>
->>>>>>> 0f05d85084845fb04423744e016b11cb598100f0
 </template>
 
 <script setup>
