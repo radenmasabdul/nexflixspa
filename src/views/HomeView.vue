@@ -1,11 +1,11 @@
 <script setup>
-  import Navbar from '@/components/Navbar.vue'
-
-  import heroImage from '@/assets/img-hero.png'
+  import Navbar from '@/components/Navbar.vue';
+  import heroImage from '@/assets/img-hero.png';
+  import Footer from "../components/Footer.vue";
 </script>
 
 <template>
-  <main class="text-white">
+  <main>
 
     <Navbar/>
 
@@ -22,5 +22,7 @@
         </div>
       </div>
     </div>
+    
+    <Footer/>
   </main>
 </template>
