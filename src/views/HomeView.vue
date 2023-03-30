@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar.vue";
 import Hero from "../components/Hero.vue";
 import Services from "../components/Services.vue";
 import Footer from "../components/Footer.vue";
+import PacketList from "../components/PacketList.vue";
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import Footer from "../components/Footer.vue";
     <Navbar />
     <Hero />
     <Services />
+    <PacketList />
     <Footer />
   </main>
 </template>
