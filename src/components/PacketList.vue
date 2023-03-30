@@ -119,13 +119,13 @@
           </div>
           <div class="grid grid-flow-col auto-cols-max py-2 px-2">
             <img src="../assets/cheklist.svg" alt="app" class="w-6 h-6 p-2" />
-            <p class="text-[#ABACAF] font-Montserrat font-normal text-base">
+            <p class="text-white font-Montserrat font-normal text-base">
               Resolusi 720p
             </p>
           </div>
           <div class="grid grid-flow-col auto-cols-max px-2">
             <img src="../assets/cheklist.svg" alt="app" class="w-6 h-6 p-2" />
-            <p class="text-[#ABACAF] font-Montserrat font-normal text-base">
+            <p class="text-white font-Montserrat font-normal text-base">
               Resolusi 1080p
             </p>
           </div>
@@ -150,9 +150,9 @@
         <div
           class="grid grid-flow-row auto-rows-max justify-center text-center pt-4"
         >
-          <p class="font-Montserrat text-xl text-white">Basic</p>
+          <p class="font-Montserrat text-xl text-white">Premium</p>
           <p class="font-Montserrat text-[32px] text-button-red pt-4">
-            Rp 120,000
+            Rp 186,000
             <span class="font-Montserrat text-base text-white">/bulan</span>
           </p>
         </div>
@@ -187,18 +187,21 @@
               Resolusi 480p
             </p>
           </div>
-          <div class="grid grid-flow-col auto-cols-max px-8 py-2">
-            <p class="text-[#ABACAF] font-Montserrat font-normal text-base">
+          <div class="grid grid-flow-col auto-cols-max py-2 px-2">
+            <img src="../assets/cheklist.svg" alt="app" class="w-6 h-6 p-2" />
+            <p class="text-white font-Montserrat font-normal text-base">
               Resolusi 720p
             </p>
           </div>
-          <div class="grid grid-flow-col auto-cols-max px-8">
-            <p class="text-[#ABACAF] font-Montserrat font-normal text-base">
+          <div class="grid grid-flow-col auto-cols-max px-2">
+            <img src="../assets/cheklist.svg" alt="app" class="w-6 h-6 p-2" />
+            <p class="text-white font-Montserrat font-normal text-base">
               Resolusi 1080p
             </p>
           </div>
-          <div class="grid grid-flow-col auto-cols-max px-8 py-2">
-            <p class="text-[#ABACAF] font-Montserrat font-normal text-base">
+          <div class="grid grid-flow-col auto-cols-max py-2 px-2">
+            <img src="../assets/cheklist.svg" alt="app" class="w-6 h-6 p-2" />
+            <p class="text-white font-Montserrat font-normal text-base">
               Resolusi 4K+HDR
             </p>
           </div>
